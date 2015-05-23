@@ -1,0 +1,7 @@
+*********************************************************************************
+Third party software used:
+swfobject (http://code.google.com/p/swfobject/)
+Licensed under MIT: http://www.opensource.org/licenses/mit-license.php
+
+David Knape & Patrick Mineault Bezier curves drawing logic.
+*********************************************************************************
